@@ -1,1 +1,5 @@
-@extends("layout.index")
+@extends('layout.index')
+
+@section('content')
+
+@endsection
